@@ -29,7 +29,7 @@ Enter the site load, backup time and battery type. The model calculates:
 | DC cable | 50 mm2 |
 
 ## Charts
-![Charts overview](images/charts-overview.png)
+![Charts overview](images)
 
 ## How to use
 1. Download `Site_Power_Dimensioning.xlsx`
