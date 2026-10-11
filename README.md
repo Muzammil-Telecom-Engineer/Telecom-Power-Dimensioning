@@ -42,4 +42,4 @@ customer specifications and vendor datasheets.
 
 ## Author
 Muzammil | Telecommunication Engineer
-LinkedIn: your-linkedin-link
+LinkedIn: www.linkedin.com/in/muzammil0904
